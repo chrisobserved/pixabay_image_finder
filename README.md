@@ -1,6 +1,6 @@
-## [View Demo](https://pixabayimgfinder.netlify.com/)
+## [App Demo](https://pixabayimgfinder.netlify.com/)
 
-
+<br>
 
 ### `npm start`
 
