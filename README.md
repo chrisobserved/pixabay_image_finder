@@ -1,8 +1,6 @@
-## [App Demo:](https://pixabayimgfinder.netlify.com/)
+## [View Demo](https://pixabayimgfinder.netlify.com/)
 
-## Available Scripts
 
-In the project directory, you can run:
 
 ### `npm start`
 
