@@ -1,4 +1,4 @@
-View app demo: https://wizardly-yonath-3a70ec.netlify.com/
+App demo: https://pixabayimgfinder.netlify.com/
 
 ## Available Scripts
 
