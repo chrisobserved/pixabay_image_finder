@@ -25,7 +25,7 @@ class ImageResults extends Component {
     let imageListContent;
     const { images } = this.props;
 
-    if(images) {
+    if(images && images !== null) {
       imageListContent = (
         <GridList cols={3}>
           {images.map(img => (
